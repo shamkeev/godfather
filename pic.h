@@ -16,7 +16,7 @@ namespace vm
 		Registers();
 	};
 
-r
+
 	class CPU
 	{
 	public:
